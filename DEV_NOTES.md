@@ -14,3 +14,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Added type hints to helper functions
 - Reviewed codebase, identified areas for improvement
+
+## 2026-04-22
+- Pinned dependency versions for reproducibility
